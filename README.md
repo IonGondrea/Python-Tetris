@@ -27,3 +27,21 @@ Pentru a rula jocul, trebuie să instalezi biblioteca `pygame`. Deschide un term
 
 ```bash
 pip install pygame
+```
+
+### 2. Instalare și Rulare
+Descarcă proiectul pe calculatorul tău și rulează scriptul principal:
+
+```bash
+git clone [https://github.com/IonGondrea/Python-Tetris.git](https://github.com/IonGondrea/Python-Tetris.git)
+cd Python-Tetris
+python main.py
+```
+
+## ⌨️ Controale
+
+* ⬅️ **Săgeată Stânga:** Mută piesa la stânga.
+* ➡️ **Săgeată Dreapta:** Mută piesa la dreapta.
+* ⬆️ **Săgeată Sus:** Rotește piesa (schimbă poziția formei).
+* ⬇️ **Săgeată Jos:** Accelerează căderea piesei spre bază.
+
